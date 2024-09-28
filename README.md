@@ -13,9 +13,10 @@ Realtime database timelines
 ![image](https://github.com/user-attachments/assets/d6185bdc-0ee3-49e3-9d38-c231d4c350a2)
 
 3. Updating the data
-   ![image](https://github.com/user-attachments/assets/8917b71f-b870-4195-a7cf-6d3a161538f4)
+![image](https://github.com/user-attachments/assets/8917b71f-b870-4195-a7cf-6d3a161538f4)
 ![image](https://github.com/user-attachments/assets/57ff48ba-cc96-40dd-9364-8049d81523ca)
 
 4. Delete the data
+   
 ![image](https://github.com/user-attachments/assets/9a7be559-43a5-4369-8147-57a3670ee830)
 ![image](https://github.com/user-attachments/assets/85f47d99-7246-468d-a743-a7c9e115d75c)
