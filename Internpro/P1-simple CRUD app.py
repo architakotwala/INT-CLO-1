@@ -2,7 +2,7 @@ import firebase_admin
 from firebase_admin import credentials, db
 
 # Initialize Firebase with service account key and database URL
-cred = credentials.Certificate('credentials.json.json')
+cred = credentials.Certificate('credentials.json')
 firebase_admin.initialize_app(cred, {
     'databaseURL': "https://crud-application-88d24-default-rtdb.asia-southeast1.firebasedatabase.app/"
 })
